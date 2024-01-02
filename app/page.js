@@ -115,17 +115,17 @@ export default function Component() {
           <p className="font-light text-gray-800 text-lg">Im 25 years old, im freshgraduate from Indrapasta University, I have good adapbility, creative, and have
 good interpersonal skills.I love working with you to create great web projects together.</p>
           <div className="flex space-x-4">
-            <a aria-label="Instagram" href="#">
+            <a aria-label="Instagram" href="https://www.instagram.com/hycl.ryhnsyh/">
               <InstagramIcon className="h-8 w-8 text-blue-600" />
             </a>
             <a aria-label="Facebook" href="#">
               <FacebookIcon className="h-8 w-8 text-blue-600" />
             </a>
 
-            <a aria-label="LinkedIn" href="#">
+            <a aria-label="LinkedIn" href="https://www.linkedin.com/in/haycalrhrayhansyah/">
               <LinkedinIcon className="h-8 w-8 text-blue-600" />
             </a>
-            <a aria-label="GitHub" href="#">
+            <a aria-label="GitHub" href="https://github.com/haycalrh21">
               <GithubIcon className="h-8 w-8 text-blue-600" />
             </a>
           </div>
